@@ -69,7 +69,7 @@ body{
     .min{
     margin-left: -10px;
     margin-right: 500px;
-   
+   boder:none;
     margin-top: 10px;
     height:100vh;
     width: 332px;
@@ -84,7 +84,7 @@ body{
     .min{
     margin-left: -10px;
     margin-right: 100px;
-    
+     boder:none;
     margin-top: 10px;
     height:100vh;
     width: 332px;
