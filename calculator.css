@@ -73,5 +73,11 @@ body{
     .border{
         margin-left:-40px;
     }
+    .min input{ 
+        width:300px;
+    }
+    #answer{
+        width:310px;
+    }
     
 }
