@@ -70,5 +70,8 @@ body{
         margin-left: 0px;
         margin-top: -2px;
     }
+    .border{
+        margin-left:-20px;
+    }
     
 }
