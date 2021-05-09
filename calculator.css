@@ -76,7 +76,8 @@ body{
        
     }
     .min button{
-        font-size:10px;
+        font-size:15px;
+        width:50px;
     }
     .border{
         border:none;
